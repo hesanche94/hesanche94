@@ -27,6 +27,7 @@ Since then, I’ve immersed myself in **data analytics, machine learning, and st
 
 ## 🚀 **Skills:** 
 Python | Pandas | Scikit-Learn | Tableau | SQL | Data Analysis | Visualization | Modeling
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
                     </p>
@@ -38,7 +39,7 @@ Python | Pandas | Scikit-Learn | Tableau | SQL | Data Analysis | Visualization |
   
   ✉️  You can contact me at [h.sanche94@gmail.com](mailto:h.sanche94@gmail.com)
 
-  🤝  Lets connect on [LinkedIn](www.linkedin.com/in/hechector-sanchez-skaggs)!
+  🤝    Lets connect on [LinkedIn](www.linkedin.com/in/hechector-sanchez-skaggs)!
 
                                     
                 
