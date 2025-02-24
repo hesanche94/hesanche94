@@ -39,7 +39,7 @@ Python | Pandas | Scikit-Learn | Tableau | SQL | Data Analysis | Visualization |
   
   ✉️  You can contact me at [h.sanche94@gmail.com](mailto:h.sanche94@gmail.com)
 
-  🤝    Lets connect on [LinkedIn](www.linkedin.com/in/hechector-sanchez-skaggs)!
+  🤝   Let's connect on [LinkedIn!](www.linkedin.com/in/hechector-sanchez-skaggs)
 
                                     
                 
