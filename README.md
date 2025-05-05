@@ -1,6 +1,6 @@
-# **Hi 👋 My name is HECTOR!**
+# **Hi, My name is HECTOR!**
 
-## 💡 **Operations Expert Turned Data Scientist | Turning Insights into Action**
+## **Operations Expert Turned Data Scientist | Turning Insights into Action**
 
 Welcome to my GitHub profile! I'm a Data Scientist and Analyst with a passion for using data to drive insights and business decisions. 
 
